@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VitorPatrezze&color=green" alt="VitorPatrezze" />
-  <a href="https://www.linkedin.com/in/leandro-carra/">
+  <a href="https://www.linkedin.com/in/vitor-patrezze-nunes-3ab15b189/">
     <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="Linkedin" />
   </a>
 </p>
