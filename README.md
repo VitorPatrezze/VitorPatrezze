@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm Vitor Patrezze Nunes :man_technologist:</h1>
+<h2 align="center">Hello, I'm Vitor Patrezze Nunes</h1>
 
 <h3 align="center">👨🏽‍💻 A self taught software engineer</h3>
 
