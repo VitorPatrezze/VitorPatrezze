@@ -24,7 +24,7 @@ company: C6 Bank
 education:
   [
     "Self-Taught Developer",
-    "Master's in Mechanical Engineering",
+    "Bachelor's in Mechanical Engineering",
     "FCE English Certificate",
   ]
 
