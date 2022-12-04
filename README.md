@@ -47,5 +47,5 @@ professional_experience:
   ]
 
 programming_languages: ["Kotlin", "Python", "C#", "Javascript", "Java"]
-hobbies: ["Gaming", "Cinema", "Pubs"]
+hobbies: ["Gaming", "Cinema", "Pubs", "Drums"]
 ```
