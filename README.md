@@ -19,11 +19,10 @@
 ```
 name: Vitor Patrezze Nunes
 located_in: São Paulo, SP, Brazil
-current_job: Backend Software Engineer
-company: C6 Bank
 education:
   [
     "Self-Taught Developer",
+    "Harvard University CS50x Course",
     "Bachelor's in Mechanical Engineering",
     "FCE English Certificate",
   ]
@@ -46,6 +45,6 @@ professional_experience:
     "Database Tech"
   ]
 
-programming_languages: ["Kotlin", "Python", "C#", "Javascript", "Java"]
+programming_languages: ["Kotlin", "Python", "C#", "Javascript", "Java", "Node"]
 hobbies: ["Gaming", "Cinema", "Pubs", "Drums"]
 ```
