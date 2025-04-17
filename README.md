@@ -21,7 +21,6 @@ name: Vitor Patrezze Nunes
 located_in: São Paulo, SP, Brazil
 education:
   [
-    "Self-Taught Developer",
     "Harvard University CS50x Course",
     "Bachelor's in Mechanical Engineering",
     "FCE English Certificate",
@@ -30,8 +29,8 @@ education:
 fields_of_interests:
   [
     "Backend Software Development",
-    "Data Science",
-    "Machine Learning",
+    "Microservice architecture",
+    "Event Driven Communication",
     "Game Development",
   ]
   
@@ -39,12 +38,11 @@ professional_experience:
   [
     "Backend Software Engineer",
     "Metrics and Observability (Grafana)",
-    "AWS Services",
+    "AWS",
     "Kubernetes",
-    "Fintechs",
-    "Database Tech"
+    "Kafka",
   ]
 
-programming_languages: ["Kotlin", "Python", "C#", "Javascript", "Java", "Node"]
-hobbies: ["Gaming", "Cinema", "Pubs", "Drums"]
+programming_languages: ["Kotlin", "Python", "C#", "Java"]
+hobbies: ["Gaming", "Cinema", "TV Shows", "DIY"]
 ```
